@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712679630 source:c:\users\macie\desktop\studia reszta\wiedzmin\histogram\main.c
+	<stdio.h>
+	<stdlib.h>
+
